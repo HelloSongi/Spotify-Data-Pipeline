@@ -6,3 +6,6 @@ I have also showcased how to use the transformed data to visualize using Seaborn
 * MongoDb
 * Seaborn
 * Matplotlib
+
+![SpotifyPipelineDesign](https://user-images.githubusercontent.com/69304233/196136820-e5c93e0d-8c50-4bac-82c0-c4e1791f865d.png)
+
