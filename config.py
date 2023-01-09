@@ -1,2 +1,2 @@
 USER_ID = '31mqqbbqlvjqnibevcyrqpnitxga'
-TOKEN = 'BQDb4vfraaHnAbO9C1ug_U2pdSFoNTrJ3lAkXa7vytWMPLxA5NhkLby8gQODLIHeiaHLzygj2G8m7WeiYATB0ja-jeQLHgN7gjdIAom3PIHkb7fWq-4cPvi3mGETY09a2Cj__SqR-s0T9zLd8a72dDjXcIr0575k26ihx8x0C1jnHP-6Me5Sefp9LjusH9bXOGy-PG41'
+TOKEN = '<isert api token here>'
