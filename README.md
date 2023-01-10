@@ -1,3 +1,4 @@
+Tools used for this projects
 
 * Spotify API
 * Python
@@ -6,5 +7,7 @@
 * Matplotlib
 * Apache Airflow
 
-![SpotifyPipelineDesign](https://user-images.githubusercontent.com/69304233/196136820-e5c93e0d-8c50-4bac-82c0-c4e1791f865d.png)
 
+Project Architecture
+
+![spotify_achticture](https://user-images.githubusercontent.com/69304233/211586241-3d879985-6499-43bd-969c-6654bd578b78.png)
