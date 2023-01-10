@@ -1,0 +1,4 @@
+2023-01-10 12:37:53,302 - INFO - *********************************
+2023-01-10 12:37:53,303 - INFO - Making HTTP Request to Spotify API
+2023-01-10 12:37:53,669 - INFO - HTTP 401 Unathorized Error
+
