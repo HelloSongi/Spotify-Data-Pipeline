@@ -1,4 +1,10 @@
-This a Spotify data pipeline that retrieves the user's recently played songs from the Spotify API, and stores the data in a MongoDB database. The script uses the Python requests library to make an HTTP GET request to the Spotify API, and uses the JSON response to extract the song names, artist names, and played at timestamps. It then creates a pandas DataFrame of the data and stores it in a MongoDB collection called "spotify_songs". The script also includes logging and error handling, and uses a config file to store the user's ID and token for authentication.
+- The script is a Airflow DAG that is scheduled to run every day at midnight and it uses the PythonOperator to run the function "spotify_data_pipeline" which pulls data from the Spotify API, logs the data, and inserts it into a MongoDB database.
+
+- The script extracts certain information about each song and stores it in a dictionary, which is then converted into a Pandas Dataframe and added to the MongoDB collection.
+
+- The script also logs any errors that may occur during the execution of the script using the python logging module, which can be used for debugging and troubleshooting purposes.
+
+- Finally, Data analysis/Visualization is handled by the use of matplotlib and seaborn libraries
 
 
 Tools used for this projects
