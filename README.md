@@ -1,4 +1,4 @@
-# Project Title: Azure Spotify Data Pipeline (ETL) Project Using Python
+Azure Spotify Data Pipeline (ETL) Project Using Python
 
 ## Project Description:
 
