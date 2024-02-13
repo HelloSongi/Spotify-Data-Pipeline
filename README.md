@@ -1,7 +1,6 @@
 Azure Spotify Data Pipeline (ETL) Project Using Python
 
 ## Project Description:
-
 The Azure Spotify Data Pipeline (ETL) Project Using Python leverages the power of Azure cloud services to automate the extraction, transformation, and loading (ETL) process of Spotify API data. This project seamlessly transforms raw data from the Spotify API into a structured and query-ready dataset, enabling insightful data analysis and visualization.
 
 Project Overview:
